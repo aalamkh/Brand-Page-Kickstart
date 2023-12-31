@@ -7,7 +7,7 @@ const Hero = () => {
           SHOES.YOUR FEET DESERVE THE BEST AND WE’RE HERE TO HELP YOU WITH OUR
           SHOES.
     </p>
-     
+      
      <div className="hero-btn">
 
         <button>Shop Now</button>
