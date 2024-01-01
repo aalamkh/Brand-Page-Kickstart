@@ -9,7 +9,7 @@
     </p>
       
      <div className="hero-btn">
- 
+  
         <button>Shop Now</button> 
         <button>Category</button>
 
